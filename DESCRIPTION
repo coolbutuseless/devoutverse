@@ -8,6 +8,7 @@ Description: A collection of bespoke, non-standard devices for RStats.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/coolbutuseless/devoutverse,https://coolbutuseless.github.io/package/devoutverse/
 Imports:
     devout
 RoxygenNote: 6.1.99.9001
