@@ -10,3 +10,4 @@ Encoding: UTF-8
 LazyData: true
 Imports:
     devout
+RoxygenNote: 6.1.99.9001
