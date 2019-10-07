@@ -1,0 +1,12 @@
+Package: devoutverse
+Type: Package
+Title: Non-standard Devices for RStats
+Version: 0.1.0
+Author: mikefc
+Maintainer: mikefc <mikefc@coolbutuseless.com>
+Description: A collection of bespoke, non-standard devices for RStats.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+    devout
